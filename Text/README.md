@@ -1,0 +1,1 @@
+__text-fit-to-plane__: Make text(font) is child of plane mesh and modify bounding box to fit this plane.
